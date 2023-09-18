@@ -9,7 +9,6 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddMvc(option => option.EnableEndpointRouting = false);
 
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
