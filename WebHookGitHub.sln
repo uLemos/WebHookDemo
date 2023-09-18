@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHookGitHub", "WebHookGitHub\WebHookGitHub.csproj", "{EF36FAE0-4B07-44B3-AF16-B715F05E7D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF36FAE0-4B07-44B3-AF16-B715F05E7D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF36FAE0-4B07-44B3-AF16-B715F05E7D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF36FAE0-4B07-44B3-AF16-B715F05E7D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF36FAE0-4B07-44B3-AF16-B715F05E7D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FAB20A-D299-40B6-93A8-27E638EFCAD7}
+	EndGlobalSection
+EndGlobal
